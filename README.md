@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development projects in HTML and CSS, and simple programs in Python<br>🌱 I’m currently learning OOP in python, C, Java and SQL!<br>⚡ A penultimate year CS student in Australia
+🔭 I’m currently working on: websites, mobile apps, other stuff...<br>🌱 I’m currently learning: automations, webscraping<br>⚡cs @ unimelb :D
 
 
 ## 🌐 Socials:
